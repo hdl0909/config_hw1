@@ -1,0 +1,6 @@
+ls
+cd folder_1/
+pwd
+ls -l folder
+chmod 742 root/
+cd ..
